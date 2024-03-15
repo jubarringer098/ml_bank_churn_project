@@ -1,5 +1,6 @@
 ### 1. Introduction
-Each step of the process has been complete in this Jupyter Notebook: (ML Bank Churn Project)[https://github.com/jubarringer098/ml_bank_churn_project/blob/main/ML%20Bank%20Churn%20Project%20with%20Detailed%20EDA.ipynb]
+Each step of the process has been complete in this Jupyter Notebook: 
+### (ML Bank Churn Project)[https://github.com/jubarringer098/ml_bank_churn_project/blob/main/ML%20Bank%20Churn%20Project%20with%20Detailed%20EDA.ipynb]
 
 #### 1.1 Project Overview
 For this Kaggle competition, the objective is to predict customer churn within the banking sector, focusing on whether customers continue or terminate their accounts. The aim is to create a model that can predict the probability of a customer leaving the bank. This project is pivotal for strategic customer retention efforts, allowing for targeted interventions to enhance customer satisfaction and loyalty.
